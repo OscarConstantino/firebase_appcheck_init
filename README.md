@@ -17,7 +17,7 @@ cd firebase_appcheck_init
 firebase init hosting
 ```
 
- ** Note: select the public folder as the directory that will contain Hosting assets.
+ ** Note: select the public folder as the directory that will contain Hosting assets and do not overwrite it.
 
 You can use a new or an active Firebase project. You can use either a Blaze or Spark project plan.
 
