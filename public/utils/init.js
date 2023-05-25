@@ -4,7 +4,5 @@ const firebaseConfig = {
 //...
 };
 
-console.log("Hello apps");
-
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
