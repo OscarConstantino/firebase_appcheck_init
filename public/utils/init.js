@@ -13,7 +13,7 @@ const appCheck = firebase.appCheck();
 // key is the counterpart to the secret key you set in the Firebase console.
  
 appCheck.activate(
-    '6Lca0T4mAAAAACY4effbs_fjKenhHZqwEB0K23al',
+    '********************************',
 
    // Optional argument. If true, the SDK automatically refreshes App Check
    // tokens as needed.
